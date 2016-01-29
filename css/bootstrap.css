@@ -5814,6 +5814,10 @@ a.text-danger:focus, a.text-danger:hover {
   color: #eceeef;
   background-color: #373a3c;
 }
+.bg-inverse-opas{
+  color:#eceeef;
+  background-color: rgba(55, 58, 60, 0.78);
+}
 
 .bg-faded {
   background-color: #f7f7f9;
